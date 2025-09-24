@@ -1,20 +1,12 @@
-
-###
-###  YAML HEADER FOR PAGE
-###  
-###  ---
-###  layout: default
-###  title: 'Getting Started'
-###  ---
-###
-
-
-
+---
+layout: default
+title: 'Getting Started'
+---
 
 
 <div class="title">
 
-<h1>  {{ page.title }}  Getting Started </h1>
+<h1>  {{ page.title }}  </h1>
 
 </div>
 ## The easy way (recommended!)
