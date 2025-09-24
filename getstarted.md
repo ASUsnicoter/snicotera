@@ -70,13 +70,6 @@ Files you create inside the [`_posts`](./_posts) directory will be treated as bl
 
 <style>
 
-.gs-section-01 h3 { 
-     color: red }
-
-.gs-section-01 p {
-     font-size: 30px;
-}
-
 .title {
     margin-top: 100px;
     margin-bottom: 100px;
@@ -85,20 +78,23 @@ Files you create inside the [`_posts`](./_posts) directory will be treated as bl
     text-align: justify;
 }
 
-
 .title h1 {
     color: darkred;
     font-size: 40px;
 }
 
-
 .gs-section-01 h3 { 
-   color: red
+     color: red }
+
+.gs-section-01 p {
+     font-size: 30px;
 }
 
 .gs-section-02 h3 { 
    color: blue
 }
-
+.gs-section-03 h3 { 
+   color: green
+}
 
 </style>
